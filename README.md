@@ -3,8 +3,6 @@ This project is a sample implementation of an authentication system that uses JS
 
 Express.js, Mongoose, ES6 Syntax is used in this project.
 
-Tutorial on this project is available at https://velopert.com/2448 (KOREAN)
-
 ## Getting Started
 ### Prerequisites
 - node.js 6.9.x
